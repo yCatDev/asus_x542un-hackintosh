@@ -20,7 +20,7 @@ Almost everything for example:
 - Discrete video card (Nvidia MX150 no driver at this time)
 - Sometimes rebooting (work in progress)
 
-## For those who want to port to a similar laptop
+## For those who want to port it on similar laptop
 
 ### About Intel UHD 620
 
