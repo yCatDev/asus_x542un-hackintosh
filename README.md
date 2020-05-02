@@ -18,6 +18,7 @@ Almost everything for example:
 - Touchpad (work in progress, it determineds by system but dont working)
 - Wi-Fi (Atheros QCA9377)
 - Discrete video card (Nvidia MX150 no driver at this time)
+- Looks like sleep\hibernate is not working(
 - Sometimes rebooting (work in progress)
 
 ## For those who want to port it on similar laptop
